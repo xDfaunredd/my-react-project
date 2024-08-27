@@ -1,3 +1,5 @@
+// @jsx React.DOM
+
 import Product from "./Product";
 import Mailbox from "./Mailbox";
 import { BookList, favouriteBooks } from "./BookList";
